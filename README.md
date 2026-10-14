@@ -68,6 +68,24 @@ android/        # Proyecto nativo Android de Capacitor
 resources/      # Recursos de la aplicación
 ```
 
-## Evidencias 
+# Evidencias 
 
+## Visualización del ícono en el movil 
 
+<img width="720" height="648" alt="WhatsApp Image 2026-10-14 at 7 34 00 AM" src="https://github.com/user-attachments/assets/eca1652e-d44d-430c-888a-477ada60d678" />
+
+## Splash screen 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1f84286e-10e7-4d8b-9cad-9f6321e13975" />
+
+## Pantalla de inicio 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/32a2abec-91b1-449c-a9d5-fd7cf5ac3d8d" />
+
+## Registro de compra 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/901cb9fc-2b70-44db-87ce-a8b3635cd2ff" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/bdf99d43-e5e0-457c-8d24-45b7f35fb714" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6b1fde77-d8a7-401e-ae3e-418629184d9e" />
+
+## Pago de compra 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/08f4375d-1e97-4208-8d60-1c8fa41eee53" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b50f331d-b258-4c17-828d-86d0a416e67c" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0a1dbd34-87dc-4dfd-8e97-985207766fad" />
