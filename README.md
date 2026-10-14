@@ -14,9 +14,9 @@ Los datos de la compra se comparten entre las pantallas mediante un servicio de 
 
 ## Tecnologías
 
-- Angular 22
-- Ionic Angular 9
-- Capacitor 8
+- Angular 
+- Ionic Angular 
+- Capacitor 
 - TypeScript y SCSS
 
 ## Requisitos
@@ -35,7 +35,7 @@ npm install
 Inicia la aplicación en el navegador:
 
 ```bash
-npm start
+ionic serve
 ```
 
 El servidor de desarrollo de Angular mostrará en la terminal la dirección local para abrir la aplicación.
@@ -45,14 +45,14 @@ El servidor de desarrollo de Angular mostrará en la terminal la dirección loca
 Genera la versión web y sincronízala con el proyecto nativo de Android:
 
 ```bash
-npm run build
-npx cap sync android
+ionic build
+ionic capacitor sync android
 ```
 
 Para abrir el proyecto Android en Android Studio:
 
 ```bash
-npx cap open android
+ionic capacitor open android
 ```
 
 ## Estructura principal
@@ -68,12 +68,6 @@ android/        # Proyecto nativo Android de Capacitor
 resources/      # Recursos de la aplicación
 ```
 
-## Scripts disponibles
+## Evidencias 
 
-| Comando | Descripción |
-| --- | --- |
-| `npm start` | Inicia el servidor local de desarrollo. |
-| `npm run build` | Compila la aplicación web. |
-| `npm run watch` | Recompila al detectar cambios, usando la configuración de desarrollo. |
-| `npm test` | Ejecuta las pruebas configuradas. |
-| `npm run lint` | Ejecuta el análisis estático configurado. |
+
